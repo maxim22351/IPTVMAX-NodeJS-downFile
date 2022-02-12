@@ -1,28 +1,23 @@
 const express = require('express')
-const mysql = require('mysql')
 const fs = require('fs')
+const {MongoClient} =  require('mongodb')
 
 const app = express();
 const POST = 5000;
 let DB = '';
 
+const client = new MongoClient('mongodb+srv://admin:25Kfu3VbD4nnOut4@cluster0.oogmr.mongodb.net/iptv?retryWrites=true&w=majority')
 
+ async function connectMongoDB (collection = 'tv'){
+    try {
+        await client.connect()
+        console.log('Good connect mongoDB')
+        DB = await client.db('iptv').collection(collection).find().toArray();
 
- async function connectMysql(hostDB = 'localhost',userDB = 'root',nameDB = 'iptvmax',passwordDB = 'root'){
-     const connect = mysql.createConnection({
-         host:hostDB,
-         user:userDB,
-         database:nameDB,
-         password:passwordDB
-     })
-
-
-    await connect.connect(err => {console.log(err)})
-    await connect.query('SELECT * FROM iptv',(err,result) => {DB = result})
-    await connect.end(err => {console.log(err)})
-
+    }catch (e){
+        console.log(e)
+    }
  }
-
 
 
 app.get('/',(req,res) => {
@@ -31,31 +26,32 @@ app.get('/',(req,res) => {
     res.header('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
     res.header('Access-Control-Allow-Credentials', true);
 
-    connectMysql();
+    connectMongoDB()
+
     res.send(DB)
 })
 
 app.get('/file/iptv.m3u',(req,res) => {
 
-
-    // res.send('file create')
-
-    connectMysql();
+    connectMongoDB('tv_m3u')
 
     let valueFile = '';
 
-    valueFile += '#EXTM3U max-conn="2" url-tvg="https://antifriztv.com/xmltv.xml.gz"\n'
+    async function recordFile (){
+          valueFile += '#EXTM3U max-conn="2" url-tvg="https://antifriztv.com/xmltv.xml.gz"\n'
 
-    for (let i = 0; i < DB.length; i++) {
-        valueFile += '\n'
-        valueFile += '#EXTINF:0,' + DB[i]['name'] + '\n';
-        valueFile += '#EXTGRP:' + DB[i]['groupTV'] + '\n';
-        valueFile += DB[i]['url'] + '\n';
+          await  DB.forEach(item => {
+                valueFile += '\n'
+                valueFile += '#EXTINF:0,' + item['name'] + '\n';
+                valueFile += '#EXTGRP:' + item['groupTV'] + '\n';
+                valueFile += item['url'] + '\n';
+            })
+
+          await  fs.writeFileSync('iptv.m3u',valueFile)
     }
 
-    // fs.appendFileSync('iptv.m3u',valueFile)
 
-    fs.writeFileSync('iptv.m3u',valueFile)
+    recordFile()
 
     res.header("Content-Disposition: attachment; filename=iptv.m3u");
     res.download('iptv.m3u')

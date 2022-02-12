@@ -2,236 +2,236 @@
 
 #EXTINF:0,1+1
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/1-plus-1/video.m3u8
+http://chopin.af-stream.com/1-plus-1/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,1+1 HD
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/1-plus-1-hd/video.m3u8
+http://chopin.af-stream.com/1-plus-1-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,2+2
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/2-plus-2-ua/video.m3u8
+http://chopin.af-stream.com/2-plus-2-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,2+2 HD
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/2-plus-2-ua-hd/video.m3u8
+http://chopin.af-stream.com/2-plus-2-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Новый Канал
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/novij-kanal/video.m3u8
+http://chopin.af-stream.com/novij-kanal/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Новый Канал HD
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/novyj-kanal-ua-hd/video.m3u8
+http://chopin.af-stream.com/novyj-kanal-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Україна
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/trk-ua/video.m3u8
+http://chopin.af-stream.com/trk-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Україна HD
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/trk-ua-hd/video.m3u8
+http://chopin.af-stream.com/trk-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,СТБ
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/stb/video.m3u8
+http://chopin.af-stream.com/stb/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,СТБ HD
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/stb-ua-hd/video.m3u8
+http://chopin.af-stream.com/stb-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Интер
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/inter/video.m3u8
+http://chopin.af-stream.com/inter/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Интер HD
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/inter-ua-hd/video.m3u8
+http://chopin.af-stream.com/inter-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Интер+
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/inter-plus-ua/video.m3u8
+http://chopin.af-stream.com/inter-plus-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Интер+ HD
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/inter-plus-ua-hd/video.m3u8
+http://chopin.af-stream.com/inter-plus-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,НЛО
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/nlo-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/nlo-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,НЛО HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/nlo-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/nlo-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,ICTV
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/ictv/video.m3u8
+http://chopin.af-stream.com/ictv/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,ICTV HD
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/ictv-ua-hd/video.m3u8
+http://chopin.af-stream.com/ictv-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Перший Національний
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/1nezalegny-ua/video.m3u8
+http://chopin.af-stream.com/pervyj-national-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Перший Національний HD
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/1nezalegny-hd-ua/video.m3u8
+http://chopin.af-stream.com/pervyj-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Enter-фільм
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/enter-film-ua/video.m3u8
+http://chopin.af-stream.com/enter-film-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Enter-фильм HD
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/enter-film-ua-hd/video.m3u8
+http://chopin.af-stream.com/enter-film-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Star Cinema HD
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/star-cinema-ua-hd/video.m3u8
+http://chopin.af-stream.com/star-cinema-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Star Family HD
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/star-family-ua-hd/video.m3u8
+http://chopin.af-stream.com/star-family-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,K1
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/k1-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/k1-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,К1 HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/k1-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/k1-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,K2
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/k2-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/k2-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,К2 HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/k2-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/k2-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Ukrlive
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/1nezalegny-ua/video.m3u8
+http://chopin.af-stream.com/1nezalegny-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Ukrlive HD
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/1nezalegny-hd-ua/video.m3u8
+http://chopin.af-stream.com/1nezalegny-hd-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,24 Канал
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/24tv-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/24tv-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Украина 24 HD
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/ukraina-24-hd/video.m3u8
+http://chopin.af-stream.com/ukraina-24-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,ЧП Info
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/chptv-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/chptv-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,OBOZ TV HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/oboz-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/oboz-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,НТН
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/ntn/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/ntn/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,НТН HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/ntn-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/ntn-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,ТЕТ
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/tet/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/tet/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,ТЕТ HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/tet-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/tet-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Eспресо TV
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/espresso-ua-hd/video.m3u8
+http://chopin.af-stream.com/plus-plus/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Eспресо TV HD
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/plus-plus/video.m3u8
+http://chopin.af-stream.com/espresso-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Прямий
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/tonis-ua/video.m3u8
+http://chopin.af-stream.com/tonis-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Прямий HD
 #EXTGRP:Информативные
-http://chopin.af-stream.com:1600/s/5rcfyyx5/tonis-hd-ua/video.m3u8
+http://chopin.af-stream.com/tonis-hd-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Наш
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/kanal-nash/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/kanal-nash/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Дом
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/dom-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/dom-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Квартал ТВ
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/kvartal-tv-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/kvartal-tv-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,5 канал HD UA
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/5kanal-ukraina/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/5kanal-ukraina/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Болт HD
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/bolt-ua-hd/video.m3u8
+http://chopin.af-stream.com/bolt-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Бигуди
 #EXTGRP:Фильмовый
-http://chopin.af-stream.com:1600/s/5rcfyyx5/bigudi-ua/video.m3u8
+http://chopin.af-stream.com/bigudi-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,УНІАН
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/unian-tv-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/unian-tv-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Уніан HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/unian-hd-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/unian-hd-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,ОЦЕ HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/oce-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/oce-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,ZOOM
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/zoom-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/zoom-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,ZOOM HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/zoom-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/zoom-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Мега
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/mega-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/mega-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Мега HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/mega-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/mega-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Индиго
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/indigo-ua/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/indigo-ua/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Индиго HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/indigo-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/indigo-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,Кус Кус HD
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/kus-kus-ua-hd/video.m3u8
+#EXTGRP:?
+http://chopin.af-stream.com/kus-kus-ua-hd/video.m3u8?token=5rcfyyx5
 
 #EXTINF:0,test
-#EXTGRP:В раздумье
-http://chopin.af-stream.com:1600/s/5rcfyyx5/kus-kus-ua-hd/video.m3u8
+#EXTGRP:?
+https://fs6.fex.net/play/3852733882
