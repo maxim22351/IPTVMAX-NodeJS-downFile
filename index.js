@@ -98,6 +98,27 @@ app.get('/file/iptv.m3u',async (req,res) => {
 
 })
 
+app.get('/file/fullhd.m3u',async (req,res) => {
+
+    let valueFile = ''
+
+    await connectMongoDB('m3u_fullhd')
+
+    valueFile += '#EXTM3U max-conn="2" url-tvg="https://antifriztv.com/xmltv.xml.gz"\n'
+
+    await  DB.forEach(item => {
+        valueFile += '\n'
+        valueFile += '#EXTINF:0,' + item['name'] + '\n';
+        // valueFile += '#EXTGRP:' + item['groupTV'] + '\n';
+        valueFile += item['url'] + '\n';
+    })
+
+    await  fs.writeFileSync('fullhd.m3u',valueFile)
+    await  res.header("Content-Disposition: attachment; filename=fullhd.m3u");
+    await  res.download('fullhd.m3u')
+
+})
+
 app.get('/file', async (req,res) => {
 
     res.header('Access-Control-Allow-Origin', '*');
